@@ -11,7 +11,7 @@ CRYPTKEEPER: an encryption/decryption program. Quickly and easily encrypt or dec
 <h1>Videos</h1>
 
 <h3>POC - Using Cryptkeeper Video:</h3><p>
-<a href="https://youtu.be/QnUhztLsejk">https://youtu.be/CfoLXweHoME</a><p>
+<a href="https://www.youtube.com/watch?v=CfoLXweHoME&t=181sk">https://www.youtube.com/watch?v=CfoLXweHoME&t=181s</a><p>
  
 <h1>Usage</h1>
   
