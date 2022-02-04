@@ -17,8 +17,8 @@ CRYPTKEEPER: an encryption/decryption program. Quickly and easily encrypt or dec
   
 <H2>REQUIREMENTS TO ENCRYPT ENTIRE FOLDERS:</H2>
 1. Copy contents to the 'grave' folder to encrypt everything inside of it. Encrypted files maintain their folder structure, and can be decrypted individually or all at once.<p>
-2. To decrypt multiple files at once, put them in the 'encrypted' folder prior to running. A new folder called 'decrypted' will be made, with the decrypted contents inside.<p>
-
+2. To decrypt multiple files at once, put them in the 'encrypted' folder prior to running. A new folder called 'decrypted' will be made, with the decrypted contents inside.<br>
+3. To encrypt/decrypt a single file, just run ./cryptkeeper.sh<br><p>
  TO RUN:<p>
 
   ./cryptkeeper.sh<p>
