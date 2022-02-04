@@ -2,7 +2,7 @@
 
 <b>Usage: ./cryptkeeper.sh</b>
 
-<h3>cryptkeeper v.2.0</h3>
+<h3>cryptkeeper v.2.0 X</h3>
 <img src="https://github.com/n3onhacks/cryptkeeper/blob/main/cryptkeeperlogo.jpg" alt="cryptkeeper logo">
 
 **!FOLLOW USEAGE INSTRUCTIONS BELOW!**<p>
